@@ -1,3 +1,1 @@
-This organization is used to save sever config information for various modpacks I host.
-
-This repository is used to host template script files. 
+This repository is used to host template script files, along with github information for the organization.
